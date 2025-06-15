@@ -26,8 +26,8 @@ A content-based movie recommendation system built with Python and Streamlit that
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/movie_recommender_system.git
-cd movie_recommender_system
+git clone https://github.com/YashwanthChowdary19/movie_recommended_system.git
+cd movie_recommended_system
 ```
 
 2. Create and activate virtual environment:
@@ -88,7 +88,7 @@ http://localhost:8501
 ## 📝 Project Structure
 
 ```
-movie_recommender_system/
+movie_recommended_system/
 │
 ├── app.py                 # Main application file
 ├── requirements.txt       # Python dependencies
@@ -115,6 +115,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Streamlit](https://streamlit.io/) for the web framework
 - [Kaggle](https://www.kaggle.com/) for the dataset
 
+## 📧 Contact
 
+Yashwanth Chowdary - [@YashwanthChowdary19](https://github.com/YashwanthChowdary19)
 
-Project Link: [https://github.com/yourusername/movie_recommender_system](https://github.com/yourusername/movie_recommender_system) 
+Project Link: [https://github.com/YashwanthChowdary19/movie_recommended_system](https://github.com/YashwanthChowdary19/movie_recommended_system) 
